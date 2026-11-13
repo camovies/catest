@@ -14,8 +14,8 @@
 ### 📥 CA Movies APK Download-na (Latest: v1.0.2)
 App chhunga auto-update a theih loh chuan a hnuaia i phone mil ber hi hmet la download rawh:
 
-* 🚀 **[Download for New Phones (arm64-v8a) — Recommended](https://github.com/camovies/catest/releases/download/v1.0.1/app-arm64-v8a-release.apk)** *(Phone thar leh pangngai zawng zawng tan)*
-* 📱 **[Download for Older Phones (armeabi-v7a)](https://github.com/camovies/catest/releases/download/v1.0.1/app-armeabi-v7a-release.apk)** *(Phone hlui leh RAM tlem tan)*
+* 🚀 **[Download for New Phones (arm64-v8a) — Recommended](https://github.com/camovies/catest/releases/download/v1.0.2/app-arm64-v8a-release.apk)** *(Phone thar leh pangngai zawng zawng tan)*
+* 📱 **[Download for Older Phones (armeabi-v7a)](https://github.com/camovies/catest/releases/download/v1.0.2/app-armeabi-v7a-release.apk)** *(Phone hlui leh RAM tlem tan)*
 
 ### ✨ Thil Thar Awmte (Changelog — v1.0.2)
 * 🔔 **Real-Time Notifications:** Movie leh Episode thar a awm veleh hriattirna rang takin a thleng thei ta.
@@ -31,8 +31,8 @@ App chhunga auto-update a theih loh chuan a hnuaia i phone mil ber hi hmet la do
 ### 📥 Download CA Movies APK (Latest: v1.0.2)
 If in-app update fails on your device, tap the link below to download and install manually:
 
-* 🚀 **[Download for Modern Phones (arm64-v8a) — Recommended](https://github.com/camovies/catest/releases/download/v1.0.1/app-arm64-v8a-release.apk)** *(For almost all Android phones)*
-* 📱 **[Download for Older 32-bit Phones (armeabi-v7a)](https://github.com/camovies/catest/releases/download/v1.0.1/app-armeabi-v7a-release.apk)** *(For older low-spec devices)*
+* 🚀 **[Download for Modern Phones (arm64-v8a) — Recommended](https://github.com/camovies/catest/releases/download/v1.0.2/app-arm64-v8a-release.apk)** *(For almost all Android phones)*
+* 📱 **[Download for Older 32-bit Phones (armeabi-v7a)](https://github.com/camovies/catest/releases/download/v1.0.2/app-armeabi-v7a-release.apk)** *(For older low-spec devices)*
 
 ### ✨ What's New (Changelog — v1.0.2)
 * 🔔 **Real-Time Notifications:** Instant alerts when new movies and episodes are ready to stream.
